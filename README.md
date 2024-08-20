@@ -20,4 +20,4 @@ Three CNN models were used in this project: DenseNet, InceptionV3, and VGG16. Th
 # Vision Transformer (ViT)
 In addition to the CNN models, a Vision Transformer (ViT) was also trained and evaluated on the Lumpy Skin Disease dataset. The implementation of the ViT model can be found in the vit.ipynb notebook.
 # graduationProject
-# graduationProject
+
